@@ -8,14 +8,14 @@ The aim of this project was to identify key shifts in employment during this per
 [Link to Dashboard](https://public.tableau.com/app/profile/liannebaff/viz/Employmentdataset_17604337489870/UKEmploymentData2011-2014#1)
 
 ### 🎯 Key Skills Demonstrated:
-`TABLEAU DESKTOP` `TABLEAU PUBLIC` `CALCULATED FIELDS` `TREND ANALYSIS` `INTERACTIVE DATABASE DESIGN` `USE OF FILTERS`
+`TABLEAU DESKTOP` `TABLEAU PUBLIC` `CALCULATED FIELDS` `TREND ANALYSIS` `DATABASE DESIGN` `FILTERS & DASHBOARD INTERACTIVITY` `COMPARATIVE ANALYSIS` `DATA VISUALISATION`
 
 ### 🗂️ Dataset Overview
 The dataset contains UK employment statistics for 2011 and 2014 and includes employment counts and the change in employment between 2011 and 2014 and the % change in employment by industry, sub-industry and location.
 
 ---
 ### 🧩 Data Preparation
-No data cleaning required. Most of the preparation, such as renaming columns for clarity, defining data types and creating calculated fields were completed in Tableau. The dataset was already structured in a suitable format for analysis.
+No data cleaning required. Most of the preparation, such as renaming columns for clarity, defining data types and creating calculated fields was completed in Tableau. The dataset was already structured in a suitable format for analysis.
 
 ---
 ### 📊 Dashboard Overview
