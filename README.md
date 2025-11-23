@@ -3,7 +3,7 @@
 ### 📝 Project Summary
 This Tableau project visualises employment trends across the UK from 2011 until 2014 using the EMSI Job Change UK Dataset. The dashboard allows users to explore employment levels, percentage changes and patterns across cities, industies and sub-industries. 
 
-The aim of this project was to identify key shifts in employment during this period, identify the industrues and regions with the largest growth or decline, and provide an interactive tool for comparing employment patterns across sectors and locations. Users can filter by city, industry, or sub-industry, making it easy to uncover insights and understand historical labour market dynamics.
+The aim of this project was to identify key shifts in employment during this period, identify the industries and regions with the largest growth or decline, and provide an interactive tool for comparing employment patterns across sectors and locations. Users can filter by city, industry, or sub-industry, making it easy to uncover insights and understand historical labour market dynamics.
 
 [Link to Dashboard](https://public.tableau.com/app/profile/liannebaff/viz/Employmentdataset_17604337489870/UKEmploymentData2011-2014#1)
 
