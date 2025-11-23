@@ -45,10 +45,10 @@ A bar chart highlighting the industries that experienced the largest changes in 
 
   ---
   ### 📁 Files in This Repository  
-- **[EMSI_JobChange_UK.xlsx](EMSI_JobChange_UK.xlsx)** 
-&nbsp;  
+- **[EMSI_JobChange_UK.xlsx](EMSI_JobChange_UK.xlsx)**
+  
   **Worksheet(s):**
-  - <small><strong>1 digit:</strong> change in employment at the industry level</small> 
+  - <small><strong>1 digit:</strong> change in employment at the industry level</small>
   - <small><strong>2 digit:</strong> change in employment at the sub-industry level</small> <br> <br>
  
 
@@ -67,6 +67,7 @@ A bar chart highlighting the industries that experienced the largest changes in 
 | Change                | Difference in Employment between 2011 and 2014             |
 | % Change              | Difference in Employment between 2011 and 2014 (%)         |
 
+<br>
 
 **Worksheet 2: 2 digit**
 
